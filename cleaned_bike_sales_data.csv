@@ -1,0 +1,90 @@
+Sales_order,Date_of_sale,Day_of_sale,Month_of_sale,Year_of_sale,Customer_Age,Age_Group,Customer_Gender,Country,State,Product_Category,Sub_Category,Product_Description,Order_Quantity,Unit_Cost,Unit_Price,Profit,Cost,Revenue
+261695,2021-12-01,1,December,2021,39,"Adults (35-64)",F,"United States",California,Bikes,"Mountain Bikes","Mountain-200 Black, 46",4,1252.00,2295.00,4172.00,5008.00,9180.00
+261696,2021-12-01,1,December,2021,44,"Adults (35-64)",M,"United Kingdom",England,Bikes,"Mountain Bikes","Mountain-200 Silver, 42",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261697,2021-12-02,2,December,2021,37,"Adults (35-64)",M,"United States",California,Bikes,"Mountain Bikes","Mountain-400-W Silver, 46",2,420.00,769.00,698.00,840.00,1538.00
+261698,2021-12-02,2,December,2021,31,"Young Adults (25-34)",F,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-400-W Silver, 42",1,420.00,769.00,349.00,420.00,769.00
+261699,2021-12-03,3,December,2021,37,"Adults (35-64)",F,"United States",California,Bikes,"Mountain Bikes","Mountain-200 Black, 46",2,1898.00,2295.00,2086.00,5008.00,4590.00
+261700,2021-12-03,3,December,2021,24,"Youth (<25)",F,"United Kingdom",England,Bikes,"Mountain Bikes","Mountain-200 Black, 38",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261701,2021-12-03,3,December,2021,37,"Adults (35-64)",M,"United States",Washington,Bikes,"Mountain Bikes","Mountain-200 Black, 46",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261701,2021-12-03,3,December,2021,37,"Adults (35-64)",M,"United States",Washington,Bikes,"Mountain Bikes","Mountain-200 Black, 46",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261702,2021-12-04,4,December,2021,31,"Young Adults (25-34)",F,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-400-W Silver, 42",4,420.00,769.00,1396.00,1680.00,3076.00
+261703,2021-12-05,5,December,2021,39,"Adults (35-64)",F,"United States",California,Bikes,"Mountain Bikes","Mountain-200 Black, 46",4,1252.00,2295.00,4172.00,5008.00,9180.00
+261704,2021-12-05,5,December,2021,42,"Adults (35-64)",M,Germany,Nordrhein-Westfalen,Bikes,"Mountain Bikes","Mountain-200 Black, 38",4,1252.00,2295.00,4172.00,5008.00,9180.00
+261705,2021-12-05,5,December,2021,35,"Adults (35-64)",F,Australia,Queensland,Bikes,"Mountain Bikes","Mountain-200 Silver, 38",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261706,2021-12-05,5,December,2021,37,"Adults (35-64)",F,"United States",California,Bikes,"Mountain Bikes","Mountain-200 Black, 46",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261707,2021-12-06,6,December,2021,23,"Youth (<25)",M,"United Kingdom",England,Bikes,"Mountain Bikes","Mountain-400-W Silver, 46",3,420.00,769.00,1047.00,1260.00,2307.00
+261708,2021-12-06,6,December,2021,27,"Young Adults (25-34)",M,Canada,"British Columbia",Bikes,"Mountain Bikes","Mountain-200 Black, 46",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261709,2021-12-06,6,December,2021,36,"Adults (35-64)",M,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-200 Black, 42",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261710,2021-12-06,6,December,2021,47,"Adults (35-64)",M,"United Kingdom",England,Bikes,"Mountain Bikes","Mountain-200 Silver, 38",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261711,2021-12-07,7,December,2021,30,"Young Adults (25-34)",M,"United States",California,Bikes,"Mountain Bikes","Mountain-400-W Silver, 38",4,420.00,769.00,1396.00,1680.00,3076.00
+261712,2021-12-07,7,December,2021,38,"Adults (35-64)",M,"United States",California,Bikes,"Mountain Bikes","Mountain-200 Silver, 42",2,1266.00,2320.00,2108.00,2532.00,4640.00
+261713,2021-12-08,8,December,2021,19,"Youth (<25)",F,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-500 Silver, 42",4,308.00,565.00,1028.00,1232.00,2260.00
+261714,2021-12-08,8,December,2021,30,"Young Adults (25-34)",F,Canada,"British Columbia",Bikes,"Mountain Bikes","Mountain-200 Silver, 38",4,1266.00,2320.00,4216.00,5064.00,9280.00
+261715,2021-12-08,8,December,2021,39,"Adults (35-64)",F,"United States",Oregon,Bikes,"Mountain Bikes","Mountain-200 Black, 46",2,1252.00,2295.00,2086.00,2504.00,4590.00
+261716,2021-12-08,8,December,2021,35,"Adults (35-64)",F,"United States",California,Bikes,"Mountain Bikes","Mountain-500 Black, 42",1,295.00,540.00,245.00,5008.00,540.00
+261717,2021-12-09,9,December,2021,33,"Young Adults (25-34)",F,Australia,Victoria,Bikes,"Mountain Bikes","Mountain-100 Black, 38",2,1898.00,3375.00,2954.00,3796.00,6750.00
+261718,2021-12-09,9,December,2021,41,"Adults (35-64)",F,Germany,Hamburg,Bikes,"Mountain Bikes","Mountain-200 Silver, 42",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261719,2021-12-10,10,December,2021,34,"Young Adults (25-34)",F,"United States",California,Bikes,"Mountain Bikes","Mountain-200 Black, 42",2,1252.00,2295.00,2086.00,2504.00,4590.00
+261720,2021-12-10,10,December,2021,40,"Adults (35-64)",M,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-200 Black, 42",2,1252.00,2295.00,2086.00,2504.00,4590.00
+261721,2021-12-10,10,December,2021,26,"Young Adults (25-34)",M,"United Kingdom",England,Bikes,"Mountain Bikes","Mountain-200 Black, 38",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261722,2021-12-10,10,December,2021,34,"Young Adults (25-34)",M,"United States",California,Bikes,"Mountain Bikes","Mountain-500 Black, 40",1,295.00,540.00,245.00,295.00,540.00
+261723,2021-12-10,10,December,2021,34,"Young Adults (25-34)",F,"United States",Washington,Bikes,"Mountain Bikes","Mountain-100 Silver, 44",1,1912.00,3400.00,1488.00,1912.00,3400.00
+261724,2021-12-10,10,December,2021,38,"Adults (35-64)",M,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-200 Black, 38",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261725,2021-12-11,11,December,2021,24,"Youth (<25)",F,France,"Seine (Paris)",Bikes,"Mountain Bikes","Mountain-200 Black, 38",3,1252.00,2295.00,3129.00,3756.00,6885.00
+261726,2021-12-11,11,December,2021,41,"Adults (35-64)",F,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-400-W Silver, 38",2,420.00,769.00,698.00,840.00,1538.00
+261727,2021-12-11,11,December,2021,27,"Young Adults (25-34)",M,Canada,"British Columbia",Bikes,"Mountain Bikes","Mountain-200 Black, 46",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261728,2021-12-11,11,December,2021,37,"Adults (35-64)",M,"United States",California,Bikes,"Mountain Bikes","Mountain-400-W Silver, 46",1,420.00,769.00,349.00,420.00,769.00
+261729,2021-12-11,11,December,2021,38,"Adults (35-64)",F,"United States",California,Bikes,"Mountain Bikes","Mountain-200 Silver, 38",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261730,2021-12-12,12,December,2021,36,"Adults (35-64)",F,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-200 Silver, 42",4,1266.00,2320.00,4216.00,5064.00,9280.00
+261731,2021-12-12,12,December,2021,37,"Adults (35-64)",M,"United States",California,Bikes,"Mountain Bikes","Mountain-400-W Silver, 46",4,420.00,769.00,1396.00,1680.00,3076.00
+261732,2021-12-12,12,December,2021,34,"Young Adults (25-34)",M,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-200 Black, 38",2,1252.00,2295.00,2086.00,2504.00,4590.00
+261733,2021-12-12,12,December,2021,35,"Adults (35-64)",F,Australia,Victoria,Bikes,"Mountain Bikes","Mountain-200 Silver, 42",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261734,2021-12-12,12,December,2021,38,"Adults (35-64)",F,"United States",Washington,Bikes,"Mountain Bikes","Mountain-200 Silver, 42",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261735,2021-12-13,13,December,2021,32,"Young Adults (25-34)",F,Australia,Queensland,Bikes,"Mountain Bikes","Mountain-200 Silver, 42",3,1266.00,2320.00,3162.00,3798.00,6960.00
+261736,2021-12-13,13,December,2021,40,"Adults (35-64)",F,"United States",California,Bikes,"Mountain Bikes","Mountain-500 Silver, 40",1,308.00,565.00,257.00,308.00,565.00
+261737,2021-12-13,13,December,2021,44,"Adults (35-64)",F,"United Kingdom",England,Bikes,"Mountain Bikes","Mountain-200 Black, 38",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261738,2021-12-13,13,December,2021,49,"Adults (35-64)",M,"United Kingdom",England,Bikes,"Mountain Bikes","Mountain-200 Black, 38",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261739,2021-12-14,14,December,2021,30,"Young Adults (25-34)",F,"United States",Washington,Bikes,"Mountain Bikes","Mountain-200 Silver, 38",2,1266.00,2320.00,2108.00,2532.00,4640.00
+261740,2021-12-14,14,December,2021,32,"Young Adults (25-34)",M,"United States",California,Bikes,"Mountain Bikes","Mountain-200 Black, 46",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261741,2021-12-14,14,December,2021,32,"Young Adults (25-34)",F,Australia,Victoria,Bikes,"Mountain Bikes","Mountain-400-W Silver, 46",1,420.00,769.00,349.00,420.00,769.00
+261742,2021-12-15,15,December,2021,29,"Young Adults (25-34)",F,"United States",California,Bikes,"Mountain Bikes","Mountain-200 Silver, 42",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261743,2021-12-16,16,December,2021,33,"Young Adults (25-34)",F,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-200 Black, 38",2,1252.00,2295.00,2086.00,2504.00,4590.00
+261744,2021-12-16,16,December,2021,38,"Adults (35-64)",M,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-200 Black, 38",2,1252.00,2295.00,2086.00,2504.00,4590.00
+261745,2021-12-16,16,December,2021,27,"Young Adults (25-34)",F,France,"Seine et Marne",Bikes,"Mountain Bikes","Mountain-200 Silver, 46",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261746,2021-12-17,17,December,2021,37,"Adults (35-64)",F,"United States",Washington,Bikes,"Mountain Bikes","Mountain-200 Silver, 38",2,1266.00,2320.00,2108.00,2532.00,4640.00
+261747,2021-12-17,17,December,2021,31,"Young Adults (25-34)",M,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-400-W Silver, 42",1,420.00,769.00,349.00,420.00,769.00
+261748,2021-12-17,17,December,2021,42,"Adults (35-64)",F,Germany,Nordrhein-Westfalen,Bikes,"Mountain Bikes","Mountain-200 Silver, 46",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261749,2021-12-18,18,December,2021,35,"Adults (35-64)",F,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-500 Silver, 42",4,308.00,565.00,1028.00,1232.00,2260.00
+261750,2021-12-18,18,December,2021,38,"Adults (35-64)",F,Germany,Nordrhein-Westfalen,Bikes,"Mountain Bikes","Mountain-200 Silver, 46",4,1266.00,2320.00,4216.00,5064.00,9280.00
+261751,2021-12-18,18,December,2021,24,"Youth (<25)",F,France,"Seine Saint Denis",Bikes,"Mountain Bikes","Mountain-200 Silver, 38",3,1266.00,2320.00,3162.00,3798.00,6960.00
+261752,2021-12-18,18,December,2021,26,"Young Adults (25-34)",F,"United Kingdom",England,Bikes,"Mountain Bikes","Mountain-400-W Silver, 42",3,420.00,769.00,1047.00,1260.00,2307.00
+261753,2021-12-18,18,December,2021,39,"Adults (35-64)",M,"United States",California,Bikes,"Mountain Bikes","Mountain-200 Black, 42",3,1252.00,2295.00,3129.00,3756.00,6885.00
+261754,2021-12-18,18,December,2021,26,"Young Adults (25-34)",M,France,"Seine (Paris)",Bikes,"Mountain Bikes","Mountain-200 Black, 46",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261755,2021-12-18,18,December,2021,36,"Adults (35-64)",M,"United States",Washington,Bikes,"Mountain Bikes","Mountain-200 Silver, 38",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261756,2021-12-19,19,December,2021,17,"Youth (<25)",M,France,Nord,Bikes,"Mountain Bikes","Mountain-200 Silver, 46",4,1266.00,2320.00,4216.00,5064.00,9280.00
+261757,2021-12-19,19,December,2021,19,"Youth (<25)",F,Australia,Victoria,Bikes,"Mountain Bikes","Mountain-500 Black, 44",4,295.00,540.00,980.00,1180.00,2160.00
+261758,2021-12-19,19,December,2021,25,"Young Adults (25-34)",M,France,"Seine (Paris)",Bikes,"Mountain Bikes","Mountain-200 Black, 38",4,1252.00,2295.00,4172.00,5008.00,9180.00
+261759,2021-12-19,19,December,2021,35,"Adults (35-64)",F,"United States",Oregon,Bikes,"Mountain Bikes","Mountain-100 Black, 48",4,1898.00,3375.00,5908.00,7592.00,13500.00
+261760,2021-12-19,19,December,2021,37,"Adults (35-64)",M,"United States",Oregon,Bikes,"Mountain Bikes","Mountain-200 Black, 38",4,1252.00,2295.00,4172.00,5008.00,9180.00
+261761,2021-12-19,19,December,2021,39,"Adults (35-64)",F,"United States",California,Bikes,"Mountain Bikes","Mountain-200 Black, 46",4,1252.00,2295.00,4172.00,5008.00,9180.00
+261762,2021-12-19,19,December,2021,63,"Adults (35-64)",F,Australia,Queensland,Bikes,"Mountain Bikes","Mountain-200 Black, 46",4,1252.00,2295.00,4172.00,5008.00,9180.00
+261763,2021-12-19,19,December,2021,18,"Youth (<25)",M,Australia,"South Australia",Bikes,"Mountain Bikes","Mountain-500 Black, 40",2,295.00,540.00,490.00,590.00,1080.00
+261764,2021-12-19,19,December,2021,56,"Adults (35-64)",F,Germany,Hessen,Bikes,"Mountain Bikes","Mountain-200 Black, 46",2,1252.00,2295.00,2086.00,2504.00,4590.00
+261765,2021-12-19,19,December,2021,39,"Adults (35-64)",F,"United States",Washington,Bikes,"Mountain Bikes","Mountain-200 Silver, 38",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261766,2021-12-20,20,December,2021,33,"Young Adults (25-34)",F,Australia,Victoria,Bikes,"Mountain Bikes","Mountain-100 Black, 38",4,1898.00,3375.00,5908.00,7592.00,13500.00
+261767,2021-12-20,20,December,2021,57,"Adults (35-64)",M,Australia,Queensland,Bikes,"Mountain Bikes","Mountain-200 Black, 46",4,1252.00,2295.00,4172.00,5008.00,9180.00
+261768,2021-12-20,20,December,2021,29,"Young Adults (25-34)",M,Canada,"British Columbia",Bikes,"Mountain Bikes","Mountain-500 Black, 52",3,295.00,540.00,735.00,885.00,1620.00
+261769,2021-12-20,20,December,2021,35,"Adults (35-64)",F,Australia,Queensland,Bikes,"Mountain Bikes","Mountain-200 Silver, 38",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261770,2021-12-20,20,December,2021,35,"Adults (35-64)",M,Australia,Victoria,Bikes,"Mountain Bikes","Mountain-200 Silver, 38",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261771,2021-12-21,21,December,2021,26,"Young Adults (25-34)",M,France,Somme,Bikes,"Mountain Bikes","Mountain-200 Silver, 38",3,1266.00,2320.00,3162.00,3798.00,6960.00
+261772,2021-12-21,21,December,2021,23,"Youth (<25)",M,"United Kingdom",England,Bikes,"Mountain Bikes","Mountain-400-W Silver, 46",2,420.00,769.00,698.00,840.00,1538.00
+261773,2021-12-22,22,December,2021,30,"Young Adults (25-34)",F,"United States",Washington,Bikes,"Mountain Bikes","Mountain-200 Silver, 38",3,1266.00,2320.00,3162.00,3798.00,6960.00
+261774,2021-12-22,22,December,2021,41,"Adults (35-64)",M,"United States",California,Bikes,"Mountain Bikes","Mountain-200 Black, 42",3,1252.00,2295.00,3129.00,3756.00,6885.00
+261775,2021-12-22,22,December,2021,19,"Youth (<25)",F,Australia,"New South Wales",Bikes,"Mountain Bikes","Mountain-500 Silver, 42",1,308.00,565.00,257.00,308.00,565.00
+261776,2021-12-22,22,December,2021,25,"Young Adults (25-34)",M,France,"Seine (Paris)",Bikes,"Mountain Bikes","Mountain-200 Black, 38",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261777,2021-12-22,22,December,2021,27,"Young Adults (25-34)",F,Canada,"British Columbia",Bikes,"Mountain Bikes","Mountain-200 Black, 46",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261778,2021-12-22,22,December,2021,41,"Adults (35-64)",M,Germany,Hessen,Bikes,"Mountain Bikes","Mountain-200 Silver, 38",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261779,2021-12-23,23,December,2021,30,"Young Adults (25-34)",F,"United States",Oregon,Bikes,"Mountain Bikes","Mountain-200 Silver, 42",1,1266.00,2320.00,1054.00,1266.00,2320.00
+261780,2021-12-23,23,December,2021,31,"Young Adults (25-34)",F,Canada,"British Columbia",Bikes,"Mountain Bikes","Mountain-200 Black, 42",1,1252.00,2295.00,1043.00,1252.00,2295.00
+261781,2021-12-23,23,December,2021,35,"Adults (35-64)",F,"United States",California,Bikes,"Mountain Bikes","Mountain-500 Black, 42",1,295.00,540.00,245.00,295.00,540.00
+261782,2021-12-24,24,December,2021,38,"Adults (35-64)",M,Australia,Queensland,Bikes,"Mountain Bikes","Mountain-200 Black, 42",4,1252.00,2295.00,4172.00,5008.00,9180.00
